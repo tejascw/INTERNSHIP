@@ -23,3 +23,5 @@ During this internship, I gained hands-on experience in various labs essential f
 
 ### Certificate
 ![Tejas C  Waghmare (1) (2) pdf](https://github.com/tejascw/INTERNSHIP/assets/116948766/e8bfd4e6-d0b6-48f1-9f1c-16697327c672)
+
+Link: https://github.com/tejascw/INTERNSHIP/blob/main/Tejas%20C.%20Waghmare%20(1).pdf
