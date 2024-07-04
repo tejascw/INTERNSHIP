@@ -3,7 +3,7 @@
 ### Smart Manufacturing Internship
 Welcome!
 
-I am a B.Tech Mechanical Engineering graduate, and I have successfully completed a 3-month internship in "Smart Manufacturing" at the V.R. Jamdar Siemens Center of Excellence at VNIT, Nagpur, under the course of Industry 4.0 & Digitalization.
+I am a B.Tech Mechanical Engineering graduate, and I have successfully completed a 3-month internship in **"Smart Manufacturing"** at the V.R. Jamdar Siemens Center of Excellence at VNIT, Nagpur, under the course of **Industry 4.0 & Digitalization**.
 During this internship, I gained hands-on experience in various labs essential for acquiring the skills needed for smart manufacturing. These labs are discussed below:
 
 ### Labs and Areas of Expertise:
